@@ -51,10 +51,5 @@ terraform-multi-env-aws/
 
 ---
 
-## 🚀 How to Deploy
 
-### Dev
-```bash
-cd envs/dev
-terraform init
-terraform apply
+
